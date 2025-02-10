@@ -3,7 +3,7 @@
 - 👀 I’m interested in software development, architecture, and innovative tech solutions.
 - 🌱 I’m currently learning advanced web development and machine learning techniques.
 - 💞️ I’m looking to collaborate on open-source projects and tech communities.
-- 📫 How to reach me: You can email me at bricetoueu@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/bricetoueu/).
+- 📫 How to reach me: You can email me at brice.toueu@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/bricetoueu/).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once built a binary tree implementation that was featured in a tech blog!
 
